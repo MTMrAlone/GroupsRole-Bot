@@ -1,21 +1,14 @@
 {
-    "token": "OTg4MTQwMzE1MzAxMDA3NDIx.G89CpA.DFHfkzBO6xGUhhor9reI4Nrpo-Tl9aeGPGCNxQ",
+    "token": "<Token Here>",
     "version": "1.1.0",
-    "api": "https://fivemtools.ir/api/v1/servers/NightLand/",
-    "embed_header": "LibertyCiry Stats",
-    "factions": [
+    "embed_header": "<Server Name>",
+    "guild": 0, // Place guild id here to display status guild members
+    "groups": [
         {
-            "name": "Police Department",
-            "moderator": 997619594778923060,
-            "roles": [
-                997619340667007086
-            ]
-        },
-        {
-            "name": "FBI Department",
-            "moderator": 997619594778923060,
-            "roles": [
-                997619537170157661
+            "name": "<Group Name>",
+            "moderator": 0, // Group role id administrator
+            "roles": [ // Group roles id can administrator give
+                0
             ]
         }
     ]
